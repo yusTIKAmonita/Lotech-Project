@@ -1,4 +1,6 @@
 package com.goat.lotech
 
-class TestKelas {
+import androidx.lifecycle.ViewModel
+
+class TestKelas: ViewModel {
 }
